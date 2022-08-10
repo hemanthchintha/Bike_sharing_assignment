@@ -1,5 +1,5 @@
 # Project Name
-> This is a programming assignment wherein you have to build Multiple Linear Regression model to predict the demand of shared bikes.
+> Bike sharing Assignment.
 
 
 ## Table of Contents
