@@ -30,6 +30,8 @@
 - library - statsmodel
 - library - sklearn
 - library - seaborn
+- library - pandas
+- programming tool - Jupyter Notebook
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -37,7 +39,7 @@
 Give credit here.
 - This project was inspired by upgrad
 - References upgrad modules
-- 
+
 
 
 ## Contact
